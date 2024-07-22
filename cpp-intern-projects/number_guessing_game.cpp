@@ -15,7 +15,7 @@ int main()
 
     cout << "Welcome to the Number Guessing Game!" << endl;
     cout << "I have selected a number between 1 and 100. Can you guess it?" << endl;
-    // cout << "Hint: The number is " << randomNumber << endl;
+    cout << "Hint: The number is " << randomNumber << endl;
     cout << "You can exit the game at any time by entering 0." << endl;
 
     // Infinite loop until user guesses the correct number or enters 0 to exit
