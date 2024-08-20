@@ -1,0 +1,9 @@
+Chatbot: Hello! I am a rule-based chatbot. Type 'exit' to end the conversation.
+You: Hi
+Chatbot: Hello! How can I assist you today?
+You: What time is it?
+Chatbot: The current time is 03:45 PM.
+You: What's your name?
+Chatbot: I'm a simple rule-based chatbot created to assist you with basic queries.
+You: Bye
+Chatbot: Goodbye! Have a great day!
