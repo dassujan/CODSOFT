@@ -1,5 +1,3 @@
-# Tic-Tac-Toe with Unbeatable AI using Minimax Algorithm
-
 # Initialize the board as a list of 9 empty spaces
 board = [' ' for _ in range(9)]
 

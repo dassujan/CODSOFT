@@ -1,6 +1,5 @@
 # Import the OpenCV library
-# pip install opencv-python
-import cv2
+import cv2       # pip install opencv-python
 
 # Load the pre-trained model for face detection using the Haar Cascade classifier
 # The haarcascade_frontalface_default.xml file contains the necessary data to detect faces
